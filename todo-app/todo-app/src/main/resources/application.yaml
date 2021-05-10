@@ -1,0 +1,9 @@
+spring:
+  h2:
+    console:
+      enabled: true
+      path: '/console'
+  datasource:
+    url: 'jdbc:h2:file:C:\Users\Krystian\Desktop\Sekcja_4\todo-app\todo-app\todo-db'
+
+
